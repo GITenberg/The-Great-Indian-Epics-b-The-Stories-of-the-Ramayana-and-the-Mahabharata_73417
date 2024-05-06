@@ -1,0 +1,42 @@
+_repo: The-Great-Indian-Epics-b-The-Stories-of-the-Ramayana-and-the-Mahabharata_73417
+_version: 0.0.1
+contributor:
+  adapter:
+    agent_name: Oman, John Campbell
+    birthdate: 1841
+    deathdate: 1911
+    gutenberg_agent_id: '57063'
+    url: http://www.gutenberg.org/2009/agents/57063
+  contributor:
+    agent_name: Valmiki
+    alias: Válmíki
+    gutenberg_agent_id: '7984'
+    url: http://www.gutenberg.org/2009/agents/7984
+    wikipedia: https://en.wikipedia.org/wiki/Valmiki
+description: ''
+edition_note: New edition, revised.
+gutenberg_issued: '2024-04-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73417'
+language: en
+pgterms:marc904: https://archive.org/details/greatindianepics00oman/page/n7/mode/2up
+pgterms:marc905: 20210225042418oman
+pgterms:marc906: '1900'
+pgterms:marc907: GB
+production_note: Jwala Kumar Sista, Tim Lindell and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/Canadian Libraries)
+publication_note: '  $aLondon :$bGeorge Routledge and Sons, $c1900.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'India -- Social life and customs -- Fiction'
+- !lcsh 'Epic literature, Sanskrit -- Adaptations'
+- !lcsh 'Heroes -- India -- Fiction'
+- !lcsh 'Hindu mythology -- Fiction'
+- !lcc 'PK'
+- GITenberg
+title: 'The Great Indian Epics : $b The Stories of the Ramayana and the Mahabharata'
+url: http://www.gutenberg.org/ebooks/73417
