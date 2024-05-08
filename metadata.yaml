@@ -13,7 +13,12 @@ contributor:
     gutenberg_agent_id: '7984'
     url: http://www.gutenberg.org/2009/agents/7984
     wikipedia: https://en.wikipedia.org/wiki/Valmiki
+covers:
+- cover_type: archival
+  image_path: 73417-h/images/i_cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73417#The-Great-Indian-Epics-b-The-Stories-of-the-Ramayana-and-the-Mahabharata
 edition_note: New edition, revised.
 gutenberg_issued: '2024-04-17'
 gutenberg_type: Text
